@@ -8,22 +8,22 @@ Young working professionals and students, who are new to managing their finances
 
 ### 2. User Persona
 
-**Gunjan** - a 25-year-old professional who frequently uses online payments but struggles with impulsive spending[cite: 5, 11, 13]. [cite_start]She is intrigued by investing but feels she doesn't earn enough to start, representing a key demographic that feels overwhelmed by personal finance management[cite: 15].
+**Gunjan** - a 25-year-old professional who frequently uses online payments but struggles with impulsive spending. She is intrigued by investing but feels she doesn't earn enough to start, representing a key demographic that feels overwhelmed by personal finance management.
 
 ### 3. Proposed Solution
 
 To address this, I propose a new feature suite integrated within the Paytm app called **"Fun Tax" & "Pots"**.
 
 This solution is designed to:
-***Tackle the Habit Loop:** It attaches a micro-saving/investment action directly to the cue of a "guilty" purchase[cite: 3].
-***Reduce Friction to Investing:** It automates saving small, manageable amounts, breaking the mental barrier that investing requires large capital[cite: 41].
-***Enhance User Engagement:** By building the feature into a high-frequency app like Paytm (which holds ~10.8% of UPI market share [cite: 75]), it ensures consistent user interaction.
+***Tackle the Habit Loop:** It attaches a micro-saving/investment action directly to the cue of a "guilty" purchase.
+***Reduce Friction to Investing:** It automates saving small, manageable amounts, breaking the mental barrier that investing requires large capital.
+***Enhance User Engagement:** By building the feature into a high-frequency app like Paytm (which holds ~10.8% of UPI market share), it ensures consistent user interaction.
 
 ### 4. Key Features
 
-***Smart Expense Categorization & Budgeting:** Users can categorize expenses at the point of payment and set budgets for each category[cite: 80, 124, 132].
-***"Fun Tax" (Self-Tax):** Users can apply a small, customizable percentage "tax" on purchases within self-identified "guilty" categories (e.g., junk food, shopping)[cite: 141].
-***"Pots" (Digital Piggy Banks):** The money collected from the "Fun Tax" is stored in digital "Pots"[cite: 150, 151]. [cite_start]Once a pot reaches a certain cap, the amount is automatically invested in low-risk financial instruments[cite: 149, 234].
+***Smart Expense Categorization & Budgeting:** Users can categorize expenses at the point of payment and set budgets for each category.
+***"Fun Tax" (Self-Tax):** Users can apply a small, customizable percentage "tax" on purchases within self-identified "guilty" categories (e.g., junk food, shopping).
+***"Pots" (Digital Piggy Banks):** The money collected from the "Fun Tax" is stored in digital "Pots". [cite_start]Once a pot reaches a certain cap, the amount is automatically invested in low-risk financial instruments.
 
 ### 5. Success Metrics (KPIs)
 
