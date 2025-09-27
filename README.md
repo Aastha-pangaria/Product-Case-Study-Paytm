@@ -4,7 +4,7 @@ This repository contains the deck for a product case study proposing a new featu
 
 ### 1. Problem Statement
 
-Young working professionals and students, who are new to managing their finances, find themselves stuck in a "guilty spending loop" due to poor spending habits[cite: 2, 6]. [cite_start]The increasing use of UPI makes spending feel less tangible, exacerbating impulsive buying behavior[cite: 36]. [cite_start]According to a survey, 65% of people are unaware of how much they spent last month, highlighting a significant lack of financial awareness and discipline[cite: 40].
+Young working professionals and students, who are new to managing their finances, find themselves stuck in a "guilty spending loop" due to poor spending habits.  The increasing use of UPI makes spending feel less tangible, exacerbating impulsive buying behavior. According to a survey, 65% of people are unaware of how much they spent last month, highlighting a significant lack of financial awareness and discipline.
 
 ### 2. User Persona
 
